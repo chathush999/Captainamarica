@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/DARKEMPIRESLBOTS/DARKEMPIRESLBOTS/blob/d8def89608f0154b923f56f49ed6144163244af3/GIFS/74bc5c25eb8a960229f43545854aabdd.gif" width="50px" style="max-width:100%;"></a>𝔥𝔢𝔩𝔩𝔬!<a target="_blank"><img src="https://github.com/DARKEMPIRESLBOTS/DARKEMPIRESLBOTS/blob/d8def89608f0154b923f56f49ed6144163244af3/GIFS/Hi.gif" width="40px" /></a></h1>
+    <img src="https://github.com/DARKEMPIRESLBOTS/DARKEMPIRESLBOTS/blob/a8bc06c5130bd49cf6a679c758b1b526703e69af/GIFS/74bc5c25eb8a960229f43545854aabdd.gif" width="50px" style="max-width:100%;"></a>𝔥𝔢𝔩𝔩𝔬!<a target="_blank"><img src="https://github.com/DARKEMPIRESLBOTS/DARKEMPIRESLBOTS/blob/a8bc06c5130bd49cf6a679c758b1b526703e69af/GIFS/Hi.gif" width="40px" /></a></h1>
 
 <p>
   <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝔥𝔢𝔩𝔩𝔬+I'm+𝕯𝖆𝖗𝖐+𝕰𝖒𝖕𝖎𝖗𝖊!;This+is+My+profile!;&font=Fira%20Code&center=true&size=75&width=1000&height=150"><br>
