@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 𝖘𝖙𝖚𝖉𝖞𝖎𝖓𝖌
 - 🌱 I’m currently learning ... 𝔭𝖗𝖔𝖌𝖗𝖆𝖒𝖎𝖓𝖌
-- 👯 I’m looking to collaborate on ... 𝔴𝖊𝖇 𝖉𝖊𝖛𝖔𝖑𝖕𝖔𝖎𝖓𝖌
+- 👯 I’m looking to collaborate on ... <b>𝔴𝖊𝖇 𝔡𝔢𝔳𝔢𝔩𝔬𝔭𝔦𝔫𝔤</b>
 - 🤔 I’m looking for help with ... 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌
 - 💬 Ask me about ... [𝖍𝖊𝖗𝖊](https://github.com/DARKEMPIRESL)
 - 📫 How to reach me: ...[@𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊](https://t.me/SL_BOTS_TM)
