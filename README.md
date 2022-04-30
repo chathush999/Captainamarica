@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=DARKEMPIRESL&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/DARKEMPIRESL)
 
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/DARKEMPIRESL/count.svg" />
