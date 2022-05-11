@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  
 <p align="center">
   <a>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARKEMPIRESL&theme=black-ice&hide_border=true"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARKEMPIRESL&theme=dark-smoky&hide_border=true"/>
       </a>
 </p>
 
