@@ -39,10 +39,10 @@
 
 
 ```python
-#About me 🌺.        |  Level != "Piro"
-NAME = "Hyper-King"  |  Class = "12th"
-D-O-B = "17th June"  |  Home Town = "Gaya"
-State = "Bihar"      |  Country = "India[🇮🇳]"
+#About me 🌺.        |  Level != "studying"
+NAME = "NAVANJANA🇱🇰" |  Class = "grade 11"
+D-O-B = "11th January"  |  Home Town = "Rathnapura"
+State = "devellper"      |  Country = "Sri lanma[🇱🇰]"
 
 ```
 ```java
