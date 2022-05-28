@@ -31,7 +31,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=2000&color=00B348&multiline=true&height=120&lines=A+Noob+Dev+From+India+%E2%98%81%EF%B8%8F.;%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB;My+Favourite+Languages+%F0%9F%8C%BA;%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB;HTML-%5BPro%E2%9D%A4%EF%B8%8F%5D%2C+CSS-%5BAdv%F0%9F%92%A1%5D;Python-%5BNoob%5D+.....">
+<img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=2000&color=00B348&multiline=true&height=120&lines=My+Name+Is+Navanjana+Sri lanka🇱🇰+%E2%98%81%EF%B8%8F.;%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB;My+Favourite+Languages+%F0%9F%8C%BA;%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB;HTML-%5BPro%E2%9D%A4%EF%B8%8F%5D%2C+CSS-%5BAdv%F0%9F%92%A1%5D;Python-%5BNoob%5D+.....">
 </p>
 
 
