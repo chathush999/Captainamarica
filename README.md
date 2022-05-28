@@ -35,10 +35,7 @@
 </p>
 
  ```
-
-
 ----
-
 
 ```python
 #About me 🌺.        |  Level != "studying"
@@ -46,5 +43,4 @@ NAME = "NAVANJANA🇱🇰" |  Class = "grade 11"
 D-O-B = "11th January"  |  Home Town = "Rathnapura"
 State = "developer"      |  Country = "Sri lanma[🇱🇰]"
 
-```
 ```
