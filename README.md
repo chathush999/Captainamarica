@@ -42,20 +42,10 @@
 #About me 🌺.        |  Level != "studying"
 NAME = "NAVANJANA🇱🇰" |  Class = "grade 11"
 D-O-B = "11th January"  |  Home Town = "Rathnapura"
-State = "devellper"      |  Country = "Sri lanma[🇱🇰]"
+State = "developer"      |  Country = "Sri lanma[🇱🇰]"
 
 ```
-```java
-//Sigma Rule #1317
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
 ```
-
-
 
 ----
 
