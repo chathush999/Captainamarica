@@ -35,8 +35,6 @@
 </p>
 
  ```
-----
-
 ```python
 #About me 🌺.        |  Level != "studying"
 NAME = "NAVANJANA🇱🇰" |  Class = "grade 11"
